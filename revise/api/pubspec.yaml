@@ -1,0 +1,7 @@
+name: api_calling
+
+environment:
+  sdk: '^3.8.0'
+
+dependencies:
+  http: ^1.4.0 # Use the latest stable version
