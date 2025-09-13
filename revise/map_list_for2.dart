@@ -109,3 +109,45 @@ void main() {
 
   // }
 }
+
+// void main() {
+//   List<Map<String, dynamic>> names = [
+//     {"name": "Soham"},
+//     {"name": "Suman"},
+//     {"name": "Mohan"},
+//     {"name": "Rohan"},
+//     {"name": "Subas"},
+//     {"name": "Surendra"},
+//     {"name": "Sanjay"},
+//     {"name": "Mohit"},
+//   ];
+
+//   for (int i = names.length - 1; i > -1; i--) {
+//     if (names[i]["name"].toString().toLowerCase().startsWith("s")) {
+//       print("index is $i");
+//       break;
+//     }
+//   }
+// }
+
+
+// void main() {
+//   List<Map<String, dynamic>> names = [
+//     {"name": "Soham"},
+//     {"name": "Suman"},
+//     {"name": "Mohan"},
+//     {"name": "Rohan"},
+//     {"name": "Subas"},
+//     {"name": "Surendra"},
+//     {"name": "Sanjay"},
+//     {"name": "Mohit"},
+//   ];
+
+//   for (int i = names.length - 1; i > -1; i--) {
+//     if (names[i]["name"].toString().toLowerCase().startsWith("s")) {
+//       print("index is $i, names is ${names[i]["name"]}");
+//      break;
+//     }
+//   }
+  
+// }
